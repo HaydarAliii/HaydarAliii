@@ -1,4 +1,3 @@
-[![MasterHead](http: link)
 <h1 align="center">Hi 👋, I'm Haydar Ali KILINÇ</h1>
 <h3 align="center">Passionate software developer based in Turkey</h3>
 
