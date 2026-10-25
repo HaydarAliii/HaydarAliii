@@ -1,24 +1,55 @@
-<h1 align="center">Hi 👋, I'm Haydar Ali KILINÇ</h1>
-<h3 align="center">Passionate software developer based in Turkey</h3>
+<h1 align="center">Haydar Ali Kılınç</h1>
+<p align="center">Backend Developer &amp; Computer Engineering Student</p>
 
-- 🌱 I’m currently learning **Sofware Development & Spring-Boot**
-
-- 📫 How to reach me **haydaralikilincc@gmail.com**
-
-- ⚡ Fun fact **Gamer 🎮 | Football fan ⚽ | I spend my free time learning new technologies and building projects 💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/haydar ali kılınç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haydar ali kılınç" height="30" width="40" /></a>
-<a href="https://instagram.com/haydar_ali_klnc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haydar_ali_klnc" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/haydar-ali-k%C4%B1l%C4%B1n%C3%A7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:haydaralikilincc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## About
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haydaraliii&show_icons=true&locale=en&layout=compact" alt="haydaraliii" /></p>
+I'm a fourth-year Computer Engineering student. I build backend systems with Java, Spring Boot and .NET, and I'm also working on image processing and geographic positioning systems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haydaraliii&show_icons=true&locale=en" alt="haydaraliii" /></p>
+## Featured Project
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haydaraliii&" alt="haydaraliii" /></p>
+### [BeanCouncil](https://github.com/HaydarAliii/BeanCouncil)
 
+A multi-agent LLM app where several models answer a question, review each other's answers anonymously, and a judge-only "president" model writes the final response. Models come from OpenRouter or run locally through Ollama.
+
+- Spring Boot backend with a three-stage pipeline (first opinions, peer review, final synthesis)
+- API keys stored with AES-256-GCM encryption
+- React + TypeScript frontend, PostgreSQL, Docker Compose deployment
+
+`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Docker`
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,cpp,c,py,sql&perline=8" alt="Languages and backend">
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,githubactions&perline=8" alt="Databases and tools">
+</p>
+
+| | |
+|---|---|
+| **Languages** | Java, Python, C, C++, SQL |
+| **Backend** | Spring Boot, Spring Security, .NET, REST, JWT |
+| **Databases** | PostgreSQL, MySQL |
+| **Tools** | Docker, Git, GitHub Actions, Swagger / OpenAPI, Maven |
+| **Other** | Image processing, geographic positioning systems |
+
+## GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaydarAliii&layout=compact&hide_border=true" alt="Top languages">
+</p>
+
+## Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaydarAliii/HaydarAliii/output/github-snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/HaydarAliii/HaydarAliii/output/github-snake.svg">
+  </picture>
+</p>
